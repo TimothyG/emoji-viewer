@@ -1,0 +1,1 @@
+export const getSectionName = (index: number) => `section-` + index;
